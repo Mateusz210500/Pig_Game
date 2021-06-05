@@ -1,5 +1,5 @@
 # Pig_Game
-##Simple dice game project to practise javascript language 
+## Simple dice game project to practise javascript language 
 
 # Technologies 
 * HTML
